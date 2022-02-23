@@ -1,0 +1,862 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Collection of the several late petitions &amp;c. to the Honourable House with an addition never before printed of a preface and a catalogue of above forty petitions ordered to be drawn up and presented to the Honourable House at their next sessions.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 88 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33878</idno>
+            <idno type="STC">Wing C5209</idno>
+            <idno type="STC">ESTC R26620</idno>
+            <idno type="EEBO-CITATION">09518946</idno>
+            <idno type="OCLC">ocm 09518946</idno>
+            <idno type="VID">43386</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33878)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43386)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1328:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Collection of the several late petitions &amp;c. to the Honourable House with an addition never before printed of a preface and a catalogue of above forty petitions ordered to be drawn up and presented to the Honourable House at their next sessions.</title>
+               </titleStmt>
+               <extent>36 p. in various pagings.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Viz., I. The ladies petition, II. The batchellors remonstrance, III. The chaplains petition, IV. The poets proposal, V. The widows petition, VI. An act, drawn up by a committee, of grievances."</note>
+                  <note>All satires.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1689-1702 --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43386:1"/>
+            <pb facs="tcp:43386:1"/>
+            <p>A COLLECTION Of the ſeveral Late Petitions, &amp;c.</p>
+            <p>TO THE Honourable Houſe, <hi>VIZ.</hi>
+            </p>
+            <list>
+               <item>I. <hi>The Ladies Petition.</hi>
+               </item>
+               <item>II. <hi>The Batchellors Remonſtrance.</hi>
+               </item>
+               <item>III. <hi>The Chaplains Petition.</hi>
+               </item>
+               <item>IV. <hi>The Poets Propoſal.</hi>
+               </item>
+               <item>V. <hi>The Widows Petition.</hi>
+               </item>
+               <item>VI. <hi>An Act drawn up by a Com<g ref="char:EOLhyphen"/>mittee, of Grievances.</hi>
+               </item>
+            </list>
+            <p>WITH An Addition, never before Printed, of a Preface and a Catalogue of above Forty Petitions, ordered to be drawn up, and Pre<g ref="char:EOLhyphen"/>ſented to the Honourable Houſe at their next Seſſions.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1693.</p>
+         </div>
+         <div type="bookseller_to_the_reader">
+            <pb facs="tcp:43386:2"/>
+            <pb facs="tcp:43386:2"/>
+            <head>THE BOOKSELLER to the READER.</head>
+            <p>
+               <hi>THE following Papers pretend to nothing but innocent Mirth and Pleaſantry, and were purpoſely deſigned to amuſe the Politick part of the Town, who are ſtill troubling themſelves and their Neighbours, about matters of State and Debates of Parliament, with ſomething in their own way, but dreſs'd in a freer and more entertaining manner. As they bad the good fortune to be well received, I judged it would not be amiſs to print them together in one Book, leaſt they ſhould run the fate of all looſe Papers; and after two or three days incumbring the Pocket, be thrown into a Corner, and there buried. Beſides, as our Modern Divines judge of the Merits of a Cauſe by the Succeſs it finds; ſo I, and the reſt of my Brether Bookſellers, judge of the Good<g ref="char:EOLhyphen"/>neſs of a Book by the quick Sale of it. We don't pretend to be judges of the Senſe, the Stile, or the Language, (except two or three of us, that, under the Roſe, had better let it alone) but for all that, if a Book ſells apace, and circulates nimbly, without pretending to be Conjurers, we may ſafely affirm, that</hi> Mercury <hi>is no ſmall Ingredient in the Com<g ref="char:EOLhyphen"/>poſition of it. Now theſe Petitions, or (with my Author's leave) theſe Trifles happening to ſell well, I ſoon concluded they were good; and having gone ſo far in my way, it was natural to make another Concluſion,</hi> viz. <hi>That it was pitty they ſhould be loſt.</hi>
+            </p>
+            <p>
+               <hi>So that if any one ſhall ask me, Is there any Wit in theſe Papers? I ſhall reply,</hi> Sir, they ſold well. <hi>Is the Language Correct?</hi> Sir, they ſold well. <hi>Is the Stile eaſie and clear?</hi> Sir, they ſold well. <hi>In ſhort, if they ask me a thouſand Queſtions to the like purpoſe, that ſhall ſtill be the anſwer. And herein I juſtifie my ſelf by the ex<g ref="char:EOLhyphen"/>ample of a certain Wiſe Philoſopher, (whoſe name I cannot call to mind at preſent; but the next Preface I write, you ſhall know for certain) who being asked what was the beſt Qualification to win a Widow? cryed</hi> Impudence: <hi>What was the ſecond beſt?</hi> Why Impudence: <hi>And what was the third beſt,</hi> Impudence ſtill. <hi>You ſee the old Gentleman kept cloſe to his Text.</hi>
+            </p>
+            <p>
+               <hi>But if any</hi> Courteous Reader <hi>demands of me,</hi> And why honeſt Friend do you take upon you to write Prefaces? <hi>I deſign to tell</hi>
+               <pb facs="tcp:43386:3"/> him, That I have an hundred and an hundred Preſidents in <hi>Chan<g ref="char:EOLhyphen"/>cery-Lane, Paul's Church-Yard,</hi> and all over the Town, for ſo doing. Sometimes it ſo happens that an Author is out of the way, or out of Humour, or out of his Wits, or out of the World, and then who is ſo fit I pray to perform this Office as the Bookſeller, who is principally concerned for the welfare of the Child; as who ſo fit to ſupply Mr. Conſtable's place as Mr. Deputy. But <hi>Why did you get none of your Friends to do this ſame Jobb for you.</hi> Under fa<g ref="char:EOLhyphen"/>vour, Sir, ſuppoſe I have a mind to ſhow my Parts, who ſhall hinder me? or ſecondly and laſtly, ſuppoſe I intend, one of theſe days, to turn Author in my own defence, ſince good Authors are ſo ſcarce, Where's the mighty harm done? Come, come, <hi>Taurum feret, qui vitulum tulit;</hi> the Engl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh of which is, <hi>Every thing muſt have a Beginning:</hi> Or he that can write a good Preface, may, in time, arrive to write a good Book.</p>
+            <p>So much by way of J<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt and Raillery; but now to be Sober: A Neighbour of mine, four or five Mornings ago, came into my Shop, and after he had ſhook his Head, and turned up the Whites of his Eyes, <hi>I wonder,</hi> ſays he, <hi>you'll Print ſuch dangerous things, 'tis an hundred pounds to a penny, but you are ſummon'd before the Houſe.</hi> No, no, Neighbour, <hi>quo I,</hi> there's no danger of that; cur Repreſentatives are better natured than to vent their Indignation upon a little harmleſs Mirth; and better employed than to condeſcend ſo low as to take notice of ſuch humble Trifles. Beſides, continued I, can they be offended to ſee the People are ſtill Jovial and Brisk, or to find them honeſtly endeavouring to turn a Penny to pay their Taxes. <hi>Well,</hi> but adds he, <hi>you have ruined your ſelf for ever with the Ladies, the Batchellors, the Chaplains and the Widows.</hi> Ay, quo I, if a fine Husband offends the Maids, or a good Wife the Batchellors, or an experienced Bedfellow the experienced Widows, or three Meals a day, with a skin full of Flipp or Punch, the Camp-Chaplains, I am as utterly undone as an Oyſter, and not till then. <hi>Say you ſo,</hi> cries he, <hi>It's well it's no worſe, God boy' Neighbour;</hi> ſo he made a Leg and went out of the Shop.</p>
+            <p>And now honeſt Reader, not to contradict the old Proverb, which ſays, <hi>Charity begins at home,</hi> I wiſh, in the firſt place, that I may have the good luck to ſell Ten Thouſand of theſe Petitions: And when that's done, I wiſh, in the next place, to meet thee, one Even<g ref="char:EOLhyphen"/>ing at ſome honeſt Tavern, where I deſign to give thee a Bottle of Wine, drink Proſperity to the King and Parliament, and ſmoak a Pipe together.</p>
+            <closer>
+               <signed>
+                  <hi>Yours,</hi> &amp;c.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:43386:3"/>
+            <head>The Petition of the LADIES of <hi>London</hi> and <hi>Weſtminſter</hi> to the Honourable Houſe for HUSBANDS.</head>
+            <div type="mock_petition">
+               <p>WE know you are harrraſs'd with Petitions from all Quarters of the Nation; for to whom ſhould the miſerable Subject apply himſelf for a Redreſs of his juſt Grievances, but to this awful Aſſembly? At preſent you have no leſs than the Safety of all <hi>Europe,</hi> and that of <hi>England</hi> in particular, de<g ref="char:EOLhyphen"/>pending upon your Supplies and Aſſiſtance; yet you ſometimes condeſcend to entertain your ſelves with Things of far leſs Importance, Give us leave therefore to lay our la<g ref="char:EOLhyphen"/>mentable Condition before you, and to expect a relief from your generous appearing in our behalf. We demand nothing but what is highly reaſonable and advantageous to the State, nothing but what the Laws of God, Nature, and the End of our Creation plead for and next to what immediately employs your Cou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſels at this Juncture, we offer a Matter of the higheſt Conſequence that ever came within your Walls.</p>
+               <p>You need not be reminded with what Scorn and Contempt the Holy State of Matrimo<g ref="char:EOLhyphen"/>ny has of late year<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> been treated: Every naſty Scribler of the Town has pelted it in his wretched Lampoons; it has been perſecuted in Sonnet, ridicul'd at Court, expoſed on the Theatre, and that ſo often, that the Subject is now ex<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>auſted and ba<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ren; ſo that if no new Efforts have been lately made againſt our Sexes Grand Charter, we are not to aſcribe it either to the good Nature or Converſion of the Men, but only to the want of freſh Matter and Argument. What afflicts us moſt, is to find Perſons of good Sence and Gravity, conſiderable for their Eſtates and Fortunes, ſo ſhamefully laid aſide from their Duty by the feeble Sophiſtry of theſe little unthinking R<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ning Creatures; and to ſee that <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> four<g ref="char:EOLhyphen"/>rilous Song to the Tune of <hi>a Dog with a Bottle,</hi> ſhall make a greater Impreſſion; upon them than all the wholeſome <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>recepts of the Apoſtles put together.</p>
+               <p>One, forſooth, is mortally afraid leaſt his head ſhould ake within a Fortnight, or ſo, after Marriage; and yet makes no Conſcience of filling his Carcaſs every Night with filthy ſtumm'd Wine, which in all probability will ſooner gi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> him a Fever, than a Wife con<g ref="char:EOLhyphen"/>fer a pai<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Horns upon him. A ſecond profeſſes he has an invincible Averſion to the ſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>u<g ref="char:EOLhyphen"/>ling of Children, and rocking of Or<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>les, though the So <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> a whole day at <hi>Wills,</hi> amidſt the eternal Quarrels of the No Wit<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and the endleſs Diſputes of the No-Politi<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>. A third is apprehenſive of the thing called Cur<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>in Lectu<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Fellows love to talk; and yet ſuffer themſelves to be <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mely <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>id by common, ungrateful Hackney <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ro<g ref="char:EOLhyphen"/>ſtitutes:
+<pb n="2" facs="tcp:43386:4"/> A Fourth has a great reſpect to his own dear Perſon, and thinks a Wife will drain him to meer Skin and Bones, who for all that ſo manages himſelf, as to have occaſion to viſit Dr. <hi>Wall</hi> twice a Quarter. Laſtly, the graver ſort exclaim at the Caudles, the Pins, the Midvives, the Nurſes, and other Concomitants of Wedlock; they pretend the Taxes run high, and that a Spouſe is an expenſive Animal; little conſidering that they throw away more upon their dearly beloved Vanities than would maintain a Wife, and half a dozen Children.</p>
+               <p>Theſe are the common Topicks againſt Matrimony; and yet, to behold the Vanity of theſe Pretences, they immediately diſappear and vaniſh, as ſoon as a good Fortune comes in their way. Show the Sparks but a rich Heireſs, or an old griping Alderman's Daughter, and they ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on forget Curtain Lectures and Cuckoldom. Conſumptions and Skeletons, Pins and C<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dles, Impertinence and Confinement, with the reſt of their terrible Obje<g ref="char:EOLhyphen"/>ctions. Then you hear not a Syllable of Liberty; but oh, what a bleſſed, what a com<g ref="char:EOLhyphen"/>fortable thing is a Wife! Nay, a Widow, though paſt Fifty, and as ugly as one of the Witches in <hi>Macbeth,</hi> if ſhe has but ſtore of Money, ſhall go down as glibly with them <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s the New Oaths for Pre<gap reason="illegible" resp="#APEX" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ent at Court; without the leaſt w<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y Face or remorſe of Conſcience; and the vain Coxcomb<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thinks themſelves as happy, as if they had got both the <hi>
+                     <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>dies</hi> in their poſſeſſion.</p>
+               <p>But though the Laity, not to mince Matters, have almoſt univerſally degenerated in this wicked Age; yet we bleſs Heaven that our Sex has ſtill found the Benefit of the Cler<g ref="char:EOLhyphen"/>gy, and that the Church men have been our fureſt and beſt Friends all along. Had not theſe pious Gentlemen taken pity of our Condition, how many ſuper annuated Chamber-Maids had lain neglected, how many languiſhing Farmer's Daughters gone the way of all Fleſh without propagating their kind? Whatever Prevarications they have made in other parts of the Bible, we have to our unſpeakable Comfort found that they have kept con<g ref="char:EOLhyphen"/>ſtant to the Text, <hi>Increaſe and multiply;</hi> and indeed it was but reaſonable that theſe People who are every Moment trumping their <hi>Jure Divino</hi> upon the World, ſhould by their own Example ſupport and countenance that ſort of Life, which is as much <hi>Jure Di<g ref="char:EOLhyphen"/>vino</hi> as the Prieſthood.</p>
+               <p>We never queſtioned, notwithſtanding the unwearied Attempts of our Adverſaries to render Marriage contemptible both in their Writings and Converſation, but that Nature, meer Nature without any Endeavours of our own, would have reduced the Men long ſince to a true ſenſe of their Duty, had it not been for the two following Impediments. The firſt is <hi>Wine,</hi> which we that are Maids have as much reaſon to complain of as thoſe that are married. 'Tis a burning ſhame, and it highly concerns the Wiſdom of the Nation to prevent it, that the young Fellows of the Town ſhould ſo ſcandalouſly abandon themſelves to the Bottle. They ply their Glaſſes too warmly to think of any thing elſe; and if the Liquor happens to inſpire them with any kind Inclinations, the next Street furniſhes them with ſtore of Conveniences to relieve their Appetite. And this leads us to the ſecond Block in our way, which is the intolerable multitude of <hi>Miſtreſſes,</hi> who to the great pre<g ref="char:EOLhyphen"/>judice of the Publick, divert the courſe of thoſe ſtreams, which would otherwiſe run in the regular Channel of Matrimony, As long as theſe contraband Commodities are encou<g ref="char:EOLhyphen"/>raged or co<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>niv<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d at, it cannot be expected that vertuous Women ſhould bear a good Market price, or that Marriage ſhould flouriſh.</p>
+               <pb n="3" facs="tcp:43386:4"/>
+               <p>It would look like Affectation or Vanity in thoſe of our Se<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, whom the malici<gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſuppoſes to be converſant in nothing elſe but Books of Receipts and Romances, to aequ<gap reason="illegible" resp="#APEX" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> ſo experienced and learned a Body as yours is, how highly Marriage was reverenced, and how induſtriouſly cultivated by the wiſeſt Governments in the World. The Examples of <hi>Athens</hi> and <hi>Sparta</hi> are too notorious to be long in<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ted upon. Thoſe were glorious Pla<g ref="char:EOLhyphen"/>ces for us, poor Women, to live in; a Man there could neither be Church Warden or Conſtable, nay, nor be concerned in the meaneſt, moſt ſcoundrel Pariſh Offices, unleſs he was married. An old muſty Batchelor was pointed at like a Monſter, they looked upon ſuch a one to be diſaffected to the State, and therefore as conſtantly indicted him every Quarter Seſſions for letting his Talent lie unemployed, as now we do <hi>Jacobites,</hi> and falſe Retailers of News. The ſame Policy was obſerved at <hi>Rome,</hi> where the <hi>Jus T<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>um Liberorum,</hi> the Priviledge of thoſe that had got three Children, was one of the grea<g ref="char:EOLhyphen"/>teſt Favours the Emperor could beſtow upon a Subject, and was courted with as vigorous an Application as a Knighthood is now adays. By th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> means that victorious City arrived to the Empire of the World; and we, if we wou'<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eat the <hi>French</hi> into better Manners, muſt follow the ſame Conduct: But it grieves our hearts to conſider that in a Chriſtian, and much more in a Proteſtant Country, we are forced to ſtir up the Charity of well-di<g ref="char:EOLhyphen"/>ſpoſed Perſons by citing Pagan Examples.</p>
+               <p>We therefore humbly petition you, that for the Increaſe of their Majeſties Liege peo<g ref="char:EOLhyphen"/>ple, in whom the Power and ſtrength of a Nation conſiſts, and for the utter diſcourage<g ref="char:EOLhyphen"/>ment of Celebacy, and all its wicked Works, you would be pleaſed to en<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct,</p>
+               <p>Firſt, That all Men of what Quality and Degree ſoever, ſhould be obliged to marry as ſoon as they are one and Twenty; and that thoſe Perſons who decline ſo doing, ſhall for their Liberty, as they are pleaſed to miſ call it, pay yearly to the State, which we leave to your Diſcretion to make as great or as little as you ſhall think fit, one Moiety whereof ſhall go to the King towards the Payment of his Army in <hi>Flanders,</hi> and the reſt be diſtri<g ref="char:EOLhyphen"/>buted amongſt poor Houſe-keepers, that have not ſufficient to maintain their Wives and reſpective Families, by ſuch married Officers as you ſhall nominate and appoint.</p>
+               <p>Secondly, That no Excuſe ſhall be admitted, but only that of natural Frigidity or Impotence; which that it may not be pretended when there is no juſt occaſion for it, and likewiſe that impotent Perſons may not, to the diſ appointment of their Spouſes, enter into the holy State of Matrimony, there ſhall be erected in every County in <hi>England</hi> a Court of Judicature, compoſed of half a ſcore experienced Matrons or Midvives, who by a Writ <hi>de Maritali ſupellectile inſpiciendâ,</hi> may ſummon or cauſe to be ſummoned all ſuch people as pretend the above-mentioned Excuſe, or are juſtly ſuſpected thereof.</p>
+               <p>Thirdly, ſince it is found by Experience that the generality of young Men are ſuch Idolaters of the Bottle, and that Wine is the moſt powerful Rival which the Ladies have reaſon to be jealous of, that no Perſon whatſoever ſhall be priviledged to enter a Tavern who is not married, under pain of having his Wig and gilt Snuff-box con<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſcated <hi>Totie<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Quoties.</hi>
+               </p>
+               <p>Fourthly, That every Poet, or pretender to be a Poet, or any one that has hired a Poet to write any Play, Satyr, Song or Lampoon, to the derogation of the Matrmonial State, ſhall be obliged to marry before <hi>Lady-day</hi> next enſuing, and to make a ſolemn
+<pb n="4" facs="tcp:43386:5"/> R<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eantation of all, and every wicked thing by him uttered in any Play, Satyr, Song <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or Lamp<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n to the deroga<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion of the Matrmonial State; that all ſuch diſaffected <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhall be called in, and publickly buent by the hands of twelve City-Clergy Men's Wives, on next St. <hi>Fa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>entine</hi>'s Day.</p>
+               <p>La<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tly, that to prevent the grievous Maltitudes of, and frequent reſorts to Miſſes and Ilulots, every Perſon of Quality pretending to keep a Miſs, after the commencing of <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>is <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct. ſhall be enjoined in order to his farther Puniſhment, to keep a Regiment of Foot for his Majeſties Service upon the Rhine; or in caſe he chuſes to disband her, to diſpoſe of her in Marriage to his Footman and Groom, and allow them wherewith to ſet up a Co<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ee-houſe. And as for the Inferior F<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arlots, all Juſtices of Peace and Conſtables ſhall c<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ocute the Laws againſt them.</p>
+               <p>Having thus, moſt noble Patriots, laid open our Grievances before you, we doubt not but you will take effectual Care to redreſs them Cou'd you condeſcend ſo low as to <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ebate about making the Rivers <hi>Wye</hi> and <hi>Lug</hi> navigable; and will you not endeavour as much as in you lies to unite the Majeſtreams with the <hi>Female?</hi> Cou'd you think it worth the while to take care o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the propagation of Woods, the draining of the Fens, and the converting of Pa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tures into A<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>able L<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uxl; and will you not much more encourage the propagation of Mankind, the draining of the ſuperfluous Humours of the Body Politick, and provide that ſo many longing young Ladies ſhall not lie unploughed, unharrowed, and uncultivated? Beſides there was never a ſitter occaſion for ſuch a <hi>Bill,</hi> than what oders it ſelf at preſent: The mighty numbers of Men that our Wars carry off in <hi>Flan<g ref="char:EOLhyphen"/>ders,</hi> with the little or no Increaſe at home to balance the loſs; and what ought to be no ſmall Argument with you, the few unmarried Sparks that tarry behind are of late grown ſo imperious and proud in their demands, that nothing will go down with them now but an Heireſs. Here are an infinite number of Advocates to incline you to be kind to our C<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſe, Wit and Youth, Benity and good Nature, beſides the Publick Advantage, and the Proteſtant Religion plead for us; but what cannot fail to move even hearts of Mar<g ref="char:EOLhyphen"/>ble, this very Petition is ſubſcribed by ten thouſand Green Sickneſs Maidens.</p>
+               <p>That ſingle Conſideration, we know, will prevail with you to eſpouſe our Quarrel' to reſtore Matrimony to its P<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>imitive Splendo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; and faſtly to deſtroy Celibacy, as effectu<g ref="char:EOLhyphen"/>ally as you have done Popery. Which will oblige your Petitioners,</p>
+               <closer>
+                  <hi>As in Duty bound ever to pray,</hi> &amp;c.</closer>
+               <argument>
+                  <p>
+                     <hi>This Petition is Subſcribed by Threeſcore thouſand Hands, and never a crack'd Maidenhead or Widow amongſt them.</hi>
+                  </p>
+               </argument>
+            </div>
+            <div type="colophon">
+               <p>
+                  <hi>LONDON,</hi> Printed for <hi>Mary Want-man;</hi> the Fore-maid of the Petitioners, and Sold by <hi>A. Roper</hi> in <hi>Fleetſtreet,</hi> 1693.</p>
+            </div>
+         </div>
+         <div type="text">
+            <pb n="1" facs="tcp:43386:5"/>
+            <head>
+               <hi>An humble Remonſtrance of the BATCHE<g ref="char:EOLhyphen"/>LORS, in and about</hi> London, <hi>to the Honourable Houſe, in Anſwer to a a late Paper, Intituled</hi> A Petition of the Ladies for Husbands.</head>
+            <div type="mock_petition">
+               <opener>
+                  <salute>Gentlemen,</salute>
+               </opener>
+               <p>YOu are the Sanctuary of the oppreſſed; and 'tis natural for the Subject whenever he finds himſelf unjuſtly treated, to fly to his Repreſentatives for a Redreſs. You that have ſo effectually morti<g ref="char:EOLhyphen"/>fied <hi>Arbitrary Power</hi> even in a Great Monarch, will certainly never cheriſh it in a lower Station; and this inclines us to hope that the Ladies will not find that Encouragement at your hands which their Vanity prom<g ref="char:EOLhyphen"/>pted them to expect Though their Petition to you ſpeaks in a very ſubmiſſive Stile; yet for all that they can aſſume a different ſort of Language in other Places. There they not only diſpute the Superiority with the Men, but even pretend to the Right of <hi>Conqueſt</hi> over them; for <hi>their Grand-mother</hi> Eve, they ſay, <hi>triumphed over the weakneſs of our great Grand-father.</hi> Adam <hi>in Paradiſe;</hi> and no doubt on't had inſiſted upon that Article before you, but that your Houſe laſt week ſo puniſhed the unpallatable Doctrine of <hi>Conqueſt,</hi> to diſ<g ref="char:EOLhyphen"/>arm them of this illegal pretence, which is prejudicial to the Liberty and Pri<g ref="char:EOLhyphen"/>viledge of our Sex, we have examined all the Old Records, but cannot find the leaſt appearance to colour ſuch a Plea. At preſent we ſhall diſmiſs this Point to deſcend into the Particulars of their Petition, and leave it to you at laſt to decide the Controverſie now depending between us.</p>
+               <p>They complain that the Holy State of Matrimony has of late years been very irreverently ſpoken of, that it has been rhymed to Death in Sonnet, and mur<g ref="char:EOLhyphen"/>dered <hi>in Effigie</hi> upon the Stage. Now we would not be guilty of that ill breed<g ref="char:EOLhyphen"/>ing, to ſay that the Ladies all along found the Matter, and the Satyriſt only found the Words. However we are aſſured from all hands, that thoſe Perſons who have taken the greateſt pains to expoſe that Holy State, were all of 'em mar<g ref="char:EOLhyphen"/>ried (to prove which we could name a famous <hi>Abdicating Poet,</hi> if we were
+<pb n="2" facs="tcp:43386:6"/> minded) and we hope the Ladies don't expect we ſhould either defend or con<g ref="char:EOLhyphen"/>demn them till we are married our ſelves and conſequently in a Capacity to judge on which ſide the Truth lies. At preſent we know no more of Matrimony, than a meer Land-man knows of the Sea; every Gazette tells him of abundance of Wrecks; but for all that he'll venture to Sea in hopes of making 50 <hi>per Cent.</hi> by Exchange of his Commodities.</p>
+               <p>But to make amends for this melancholy Scene, they very devoutly thank Heaven in the next place, that their Sex found the Benefit of the Clergy, when the Laity had in a manner abandoned them. Pray, Gentlemen, obſerve what Returns of Gratitude the Ladies have made their beſt and ſureſt Cards the Church<g ref="char:EOLhyphen"/>men for this their Loving Kindneſs. One wou'd have thought they might at leaſt have allow'd their ancient Friends the firſt Choice of the Vintage; 'tis no more than what the <hi>French</hi> do to the <hi>Scotch</hi> Merchants at <hi>Bourdeaux</hi> out of reſpect to their old Alliance; but we find no ſuch thing Old ſuper-annuated Houſe-keepers with a Maiden head defunct, and Farmers Daughters, are the beſt Preſents they give the poor Church; ſo that on this Account ſerve the Chriſtian Parſons, as their Predeceſſors, the Pagan Prieſts, did their Deities, who uſed to complement <hi>Jupiter</hi> with the Guts and Garbidge, and reſerved the remain<g ref="char:EOLhyphen"/>der of the Bullock for themſelves. After all, whether this happens by their own Fault, or no, the Levites are made but a civiler ſort of Scavengers to carry off the Duſt and Rubbiſh of the Sex, ſo that the Ladies may ſpare their Thanks to them if they pleaſe; for 'tis we of the Laity only that are in their Debt fo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> this great Civility.</p>
+               <p>After this, Gentlemen, the Ladies are pleaſed to avouch, that if it had not been for a certain damn'd Liquor call Wine, the Men by the meer Impulſe of Nature had been long ſince reduced to their Duty. Here by the word <hi>Duty</hi> they plainly inſinuate a <hi>Conqueſt;</hi> and therefore we humbly beg that their Petition may be ſent to the <hi>Palace-Yard,</hi> and there ſerved <hi>Secundum uſum Sarum.</hi> In the mean time, 'tis a myſtery to us what makes the Ladies vent their Spleen ſo furiouſly upon poor Wine, which by the by<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> never meant the leaſt harm in its Life to the God of Love's Subjects, unleſs they intend to monopolize all the drinking to themſelves; or elſe ſince their Sex has been ſo familiar with Bran<g ref="char:EOLhyphen"/>dy, blaſphemed by the Name of cold Tea, a Jury of Red noſed Midwives have pronounced Wine to be a feeble, impotent Creature in compariſon of that. They wonder why the Men ſhould ſcruple to marry out of fear of Cuckoldom, and yet not ſcruple to drink ſtumm'd Wine for fear of a Fever. To which we reply that the Caſe is extremely different. Not one Man in an hundred gets a Fever by drinking; at the ſame time, ſcarce one in a hundred that is married eſcapes Cuckoldom. And, Gentlemen, is not that great odds?</p>
+               <p>They wou'd have you paſs it into a Law, That every Man ſhould be obliged to marry immediately after Twenty one; and in caſe he refuſes ſo to do, to pay a good round Sum yearly <hi>for his Liberty:</hi> Though we are all of us agreed that <hi>One and Twenty</hi> is ſomewhat of the ſooneſt to begin at. For why ſhould a <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be forbidden to travel upon the Road, unleſs he ſets out exactly at Sun<g ref="char:EOLhyphen"/>riſing;
+<pb n="3" facs="tcp:43386:6"/> yet out of Complaiſance to the Ladies we are willing to let it paſs, though we are certain that half the Racers will be foundered before <hi>Thirty,</hi> provided al<g ref="char:EOLhyphen"/>ways (and to be ſure they'll never miſlike that Word either in an Act of Par<g ref="char:EOLhyphen"/>liament, or out of an Act of Parliament) that all Virgins or reputed Virgins, who are paſſed the Age of One and twenty, and have wherewithal to ſet up ſome honeſt, well-chined younger Brother, but tarry in expectation of ſtriking a Country Square or Alderman's Son, ſhall be likewiſe amerced the ſame Sum <hi>for their Maiden-heads.</hi> The Ladies perhaps will here object that 'tis hard to be taxed for an inviſible Eſtate; but we ſay, No. We can name them a hundred Tradeſmen here in the City, that ſince the Revolution have paid for what they never had; thoſe for inſtance that have been rated at 400 <hi>l.</hi> when they were not really worth one; and yet ſo valuable a thing is Reputation, whether we deſerve it or no, loſt nothing by the Bargain.</p>
+               <p>They would have none excuſed from Marriage, but only the impotent and frigid (which by the bye, Gentlemen, is full as ſevere as if you ſhould vote that all muſt troop to the Wars but the Parſons) and deſire you to erect a Court in every County, conſiſting of half a ſcore experienced Matrons, who ſhall have full Authority to examine all Perſons whom they ſuſpect to carry <hi>clipp'd</hi> Money about them, fo fear they ſhould put upon their Spouſes, when it is not in their Power to change it. Pray not altogether ſo haſty, fair Ladies. Let your Court have ſome Men in it, and not all Women: Then we may expect to have Juſtice done us; for experienced Matrons are too much a Party concerned to be truſted by themſelves. We demand whether it be convenient that only. Vintners and A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e-Drapers ſhould have the ſole Right of determining <hi>Meaſures.</hi> Vintners never think the Meaſures ſmall enough; but it may ſo happen that your experien<g ref="char:EOLhyphen"/>ded Matrons, <hi>Anglice,</hi> your Midwives, may be of a different Opinion, and ſo think no Meaſure large enough. Gentlemen, do but remember the <hi>Tryers</hi> un<g ref="char:EOLhyphen"/>der the late Reign of <hi>Fanaticiſm;</hi> they were a parcel of Inquiſitor-Divines ſet up by the then-no-Government, to licence all ſuch Perſons that were to be diſpatched into the Vineyard. Now theſe conſcientious Judges if they had a Q<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arrel to a Man, certainly rejected him, and put him by though perhaps he was Maſter of a more unexceptionable <hi>Talent</hi> than ſeveral others that had paſſed the Pulpit-Maſter before him. This needs no Application.</p>
+               <p>They complain of the exceſſive maltitude of Miſſes and Harlots in and about the Town, who, as they expreſs it, divert the Courſe of thoſe Streams that would otherwiſe run in the regular Channel of Matrimony. 'Tis a ſad Truth, we confeſs it, the number of theſe Interlopers is very grievous; and yet 'tis as ſad a Truth that the Petitioning Ladies have occaſion'd it. Let them but leave quarrelling about <hi>Jointures,</hi> and carry a little more Chriſtian Complai<g ref="char:EOLhyphen"/>ſance about them, and the other Fry would diſappear in a moment: For Whores in a State are like Copper farthings in the way of Trade, only uſed for the Convenience of readier Change, But though theſe obdurate Females are re<g ref="char:EOLhyphen"/>ally acceſſory to the great Increaſe of Miſſes, they would have every Perſon of Quality who keeps one in his own Defence, pay a good ſwinging Fine to the
+<pb n="4" facs="tcp:43386:7"/> Government. Is this reaſonable or fair? Would Governour <hi>Walker,</hi> do y<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> think, have done like a Gentleman if he had fined his Heroes of <hi>London-Der<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y</hi> for feeding on Horſe-Fleſh, contrary to the Statute, when they had nothing elſe to help themſelves with. 'Tis the ſame in all Caſes where there's no choice but downright nece<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſity.</p>
+               <p>They would have you enact, ſince they find Wine is ſo potent a Rival, that none but married Men ſhall have the Priviledge of entring into a Tavern, that is modeſtly ſpeaking, of being drunk. With all our hearts, Gentlemen, provided always that none but married Women ſhall be licenſed to appear at the Theatre, Chocolate houſe, <hi>Whitehall</hi> or the Park; or if they do, that any vigorous Ca<g ref="char:EOLhyphen"/>valier ſhall have full Liberty to carry them off, without incurring the Fate of poor Sir <hi>John Johnſon.</hi>
+               </p>
+               <p>To preſent you at one view with the Merits of the Cauſe. The Ladies are weary of lying alone, and ſo are we: They would fain be advantageouſly mar<g ref="char:EOLhyphen"/>ried, and ſo would your humble Servants. The Quarrel therefore on their ſide is unjuſtly begun. They look upon us to be their Adverſaries, whereas we have the ſame kind Inclinations to their Sex, as any of our Fore-fathers, the ſame Deſires, the ſame Wiſhes, by the ſame Token we heartily believe they have equal Beauty, and equal, if not ſuperiour, Charms to any of their Sex before them. But as in a long Tract of Time Innovations cannot fail to ſtart up; ſo the La<g ref="char:EOLhyphen"/>dies either preſuming on their own Strength, or on the Inadvertency of the Men, have trump'd up ſeveral New Doctrines upon us. A Courtſhip, as the Ladies are pleaſed to order it, is now the greateſt Pennance any Man in the World can undergo. We muſt ſwear as many Oaths as would ſerve one of his Majeſties largeſt Garriſons for a Twelve-month, till we are believed. We muſt treat them like Goddeſſes, lie proſtrate at their Feet, make Preſents ſo expenſive and numerous, that perhaps the Wive's Portion will ſcarce make amends for what the Miſtreſs extorted from us. Becauſe <hi>Jacob</hi> could ſerve two Apprenticeſhips for his <hi>Rachel,</hi> they imagine that we muſt do the ſame; not conſidering that the Race of the <hi>Methuſelabs</hi> and Patriarchs is quite extinct, and that this old Teſta<g ref="char:EOLhyphen"/>ment-Lover, were he in our Circumſtances, who begin to decay at Thirty, would have taken wiſer and better Meaſures.</p>
+            </div>
+            <div type="petitioners_note">
+               <opener>
+                  <salute>Gentlemen,</salute>
+               </opener>
+               <p>Theſe are our Sentiments upon this Subject: And as we don't doubt the Juſtice of this Honourable Houſe, ſo we little queſtion but that our Cauſe will prevail<g ref="char:punc">▪</g> In a Word, Let Love be encouraged, and Cruelty and Coyneſs be pu<g ref="char:EOLhyphen"/>niſhed,</p>
+               <closer>
+                  <signed>And your Petitioners as in Duty bound ſhall ever pray.</signed>
+               </closer>
+            </div>
+            <div type="colophon">
+               <p>
+                  <hi>LONDON,</hi> Printed for, and ſold by the Book-ſelling <hi>Ba<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>helors</hi> in St. <hi>Paul</hi>'s Church-Yard, 1693.</p>
+            </div>
+         </div>
+         <div type="text">
+            <pb n="1" facs="tcp:43386:7"/>
+            <head>THE <hi>Chaplains Petition</hi> TO THE HONOURABLE HOUSE For Redreſs of Grievances.</head>
+            <byline>By one of the Camp Chaplains.</byline>
+            <div type="mock_petition">
+               <lg n="1">
+                  <head>1.</head>
+                  <l>SInce the Ladies 'gainſt Men</l>
+                  <l>Have to Paper put Pen</l>
+                  <l>By way of Moſt humble Petition,</l>
+                  <l>In hope your good pleaſure</l>
+                  <l>Will once be at leiſure</l>
+                  <l>To mend their now Scurvy Condition.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>And ſince you allow</l>
+                  <l>That impertinent Crew,</l>
+                  <l>Your Patience to weary and vex,</l>
+                  <l>With a thing of no moment,</l>
+                  <l>That has ſmall weight, or none in't,</l>
+                  <l>But's as Idle and Light as their Sex.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>We, humble Famelicks,</l>
+                  <l>Divinity's Reliques,</l>
+                  <l>In plain Engliſh, Chaplains Domeſtick;</l>
+                  <l>To make known our grievance</l>
+                  <l>For you to relieve once,</l>
+                  <l>On your Door do our earneſt Requeſt ſtick.</l>
+               </lg>
+               <lg n="4">
+                  <pb n="2" facs="tcp:43386:8"/>
+                  <head>4.</head>
+                  <l>
+                     <hi>Viz.</hi> Be it Enacted,</l>
+                  <l>That as we ve contracted,</l>
+                  <l>Our Salaries may be Paid us:</l>
+                  <l>That when we're diſmiſt ill</l>
+                  <l>We may not go whiſtle,</l>
+                  <l>As an ord'nary Footman or Maid do's.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>For as to the Land all,</l>
+                  <l>It will be a Scandal</l>
+                  <l>To ſee Sons of <hi>Levi</hi> go Thread-bare;</l>
+                  <l>Even ſo to be ſure,</l>
+                  <l>If the Paſtor is poor,</l>
+                  <l>His Flock will ne're greet him with Head bare.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>Next, when we've ſaid Grace,</l>
+                  <l>Let's at Table have place,</l>
+                  <l>And not ſculk among the Waiters:</l>
+                  <l>Or come in with the Fruit</l>
+                  <l>To give thanks, and ſneak out,</l>
+                  <l>To Dine upon half empty Platters.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>But beſides ſtore of Diſhes</l>
+                  <l>(One part of our Wiſhes)</l>
+                  <l>To fortifie Maw Sacerdotal:</l>
+                  <l>Elemoſinary Funk,</l>
+                  <l>And leave to be Drunk,</l>
+                  <l>We humbly deſire you to Vote all.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>
+                     <hi>Item,</hi> Pray make us able</l>
+                  <l>To command Steed in Stable,</l>
+                  <l>When we are diſpos'd <hi>ad ridendum:</hi>
+                  </l>
+                  <l>And if we want Boots,</l>
+                  <l>Whips, Spurs, or Sartoots,</l>
+                  <l>Oblige ſurly Groom ſtraight to lend them.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>Nor let our great Patrons,</l>
+                  <l>Or their ruling Matrons,</l>
+                  <l>Read the Butlers a Juniper Lecture,</l>
+                  <l>If ſometimes they paſs</l>
+                  <l>To our hands a ſtoln glaſs,</l>
+                  <l>Or ſome little Orts of Confecture.</l>
+               </lg>
+               <lg n="10">
+                  <pb n="3" facs="tcp:43386:8"/>
+                  <head>10.</head>
+                  <l>When long we have ſerv'd,</l>
+                  <l>And Preferment deſerv'd,</l>
+                  <l>Let's not miſs of our juſt Expectations;</l>
+                  <l>By every Fopp's Letter</l>
+                  <l>For his Friend, that's no better,</l>
+                  <l>Or our Patron's more Block head Relations.</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>For 'tis cauſe of grieving</l>
+                  <l>To ſee a good Living</l>
+                  <l>Which our Thoughts had long been fixt on,</l>
+                  <l>Be giv'n to a Wigeon</l>
+                  <l>With no more Religion,</l>
+                  <l>And Learning much leſs than his Sexton.</l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>Nor yet let Matrimony,</l>
+                  <l>The worſt ſort of Simony,</l>
+                  <l>Be the Price of our Preſentations:</l>
+                  <l>Nor to wed a caſt Miſtreſs</l>
+                  <l>When ſhe's in great diſtreſs,</l>
+                  <l>Our requiſite Qualification.</l>
+               </lg>
+               <lg n="13">
+                  <head>13.</head>
+                  <l>And if't be our chance</l>
+                  <l>To ſerve againſt <hi>France,</hi>
+                  </l>
+                  <l>At Sea, on the <hi>Rhine,</hi> or in <hi>Flanders:</hi>
+                  </l>
+                  <l>We earneſtly ſue t' ye,</l>
+                  <l>That exempt from all duty</l>
+                  <l>We may Dine with our Pious Commanders.</l>
+               </lg>
+               <lg n="14">
+                  <head>14.</head>
+                  <l>Then Brandy good ſtore,</l>
+                  <l>With ſeveral things more,</l>
+                  <l>Which we Sons o'th' Church have a right in:</l>
+                  <l>But chiefly w' intreat,</l>
+                  <l>You'll never forget</l>
+                  <l>To excuſe us from Preaching and Fighting.</l>
+               </lg>
+               <lg n="15">
+                  <head>15.</head>
+                  <l>Let not a Commiſſion</l>
+                  <l>So change the condition</l>
+                  <l>Of him that juſt carried a Halbert;</l>
+                  <l>That a Dunce of no Letters</l>
+                  <l>Should Hector his Betters,</l>
+                  <l>For truly we cannot at all bear <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t.</l>
+               </lg>
+               <lg n="16">
+                  <pb n="4" facs="tcp:43386:9"/>
+                  <head>16.</head>
+                  <l>Nor when the War's done,</l>
+                  <l>Let's be broke ev'ry one,</l>
+                  <l>To languiſh in Rags and lye idle;</l>
+                  <l>Nor be ſo ill ſerv'd,</l>
+                  <l>To be left to be ſtarv'd,</l>
+                  <l>And kept by a Bear, and a Fiddle.</l>
+               </lg>
+               <lg n="17">
+                  <head>17.</head>
+                  <l>May it therefore you Pleaſe,</l>
+                  <l>For your own and our Eaſe</l>
+                  <l>To relieve us without heſitation:</l>
+                  <l>For the Grievances told,</l>
+                  <l>Are as frequent and old</l>
+                  <l>As any beſides in the Nation.</l>
+               </lg>
+               <lg n="18">
+                  <head>18.</head>
+                  <l>Then on us take Pity,</l>
+                  <l>And chuſe a Committee,</l>
+                  <l>Let no other Buſineſs prevent ye;</l>
+                  <l>Our requeſt do not ſpurn,</l>
+                  <l>Nor Vote it to Burn</l>
+                  <l>With a <hi>Nemine Contradicente.</hi>
+                  </l>
+               </lg>
+               <lg n="19">
+                  <head>19.</head>
+                  <l>To this if you yield,</l>
+                  <l>Our Mouths ſhall be fill'd</l>
+                  <l>With Encomiums of your Piety;</l>
+                  <l>Whoſe excellent Fame</l>
+                  <l>We will loudly Proclaim</l>
+                  <l>And worſhip next that of the Deity.</l>
+               </lg>
+               <lg n="20">
+                  <head>20.</head>
+                  <l>When thus you remove</l>
+                  <l>What we diſapprove,</l>
+                  <l>We all, down to Z from the Letter A;</l>
+                  <l>By Night and by Day,</l>
+                  <l>Will fervently Pray,</l>
+               </lg>
+               <closer>As in Duty bound, <hi>&amp;c a.</hi>
+               </closer>
+            </div>
+            <div type="colophon">
+               <p>
+                  <hi>LONDON,</hi> Printed for the uſe of the Petitioners; and ſold by <hi>Tho. Ranew</hi> in <hi>Fleet-Street</hi> near <hi>Temple Barr.</hi> 1693.</p>
+            </div>
+         </div>
+         <div type="text">
+            <pb n="1" facs="tcp:43386:9"/>
+            <head>A PROPOSAL OF THE POETS To raiſe Their MAJESTIES A Sum of Money.</head>
+            <head type="sub">Humbly recommended to the Conſi<g ref="char:EOLhyphen"/>deration of the Honourable Houſe.</head>
+            <div type="mock_petition">
+               <p>AT this critical conjuncture, when every good ſubject ought to ſet his Hand to the Plow, and uſe his utmoſt endeavours to ſupport the preſent Eſtabliſhment, we have not been want<g ref="char:EOLhyphen"/>ing in our reſpective Stations to ſhew the ſincerity of our Af<g ref="char:EOLhyphen"/>fection to it. As Fighting was never the Talent of our Tribe, we don't pretend to have obliged the Nation that way; nor dare we own our ſelves guilty of much praying, for that too is out of our Sphere; but with what alacrity and chearfulneſs we have drawn our Pens in their Majeſties quarrel, let <hi>Paul</hi>'s <hi>Church Yard</hi> and <hi>Weſtminſter-Hall</hi> ſpeak. No ſooner is any Victory gained by our Forces in <hi>Flanders,</hi> but we take the Hint immediately, and Record it in Metre: Nay we may without vanity affirm, that cou'd Ryming have done the buſineſs, the Engliſh had long ago beat their Drums through <hi>Paris,</hi> ſent the mighty Monarch to Graſs, and reduced the <hi>Louvre</hi> and <hi>Verſailles</hi> to Aſhes. What is a farther indication of our good will to the Go<g ref="char:EOLhyphen"/>vernment, we have not only only rymed but propheſied for it, and if in the heat of inſpiration we have laid the Scene of Conqueſt ſomewhat too early, and foretold Triumphs that did not happen at the time appointed, 'tis an errour on the right ſide, and we hope the Kingdom
+<pb n="2" facs="tcp:43386:10"/> will as readily excuſe it in us, as they have done ſome modern In<g ref="char:EOLhyphen"/>terpreters of the Revelations, who out of their great zeal to the Pro<g ref="char:EOLhyphen"/>teſtant Cauſe Propheſied the utter downfal of Antichriſt wou'd cer<g ref="char:EOLhyphen"/>tainly come to paſs laſt year; tho' to our great ſorrow we all ſee that the Man of Sin is ſtill alive and luſty, and in all probability will not be induced to break up Houſe-keeping under two or three year more.</p>
+               <p>Gentlemen,</p>
+               <p>You have made us happy under a victorious Prince, whoſe immor<g ref="char:EOLhyphen"/>tal acquiſitions employ our Muſes daily. You have preſerved our Religion, and 'tis certain we Poets have a regard to that above all things; you have likewiſe ſecured us in our properties, and how deeply that point concerns the Sons of Ryme and Harmony we need not mention. For this therefore, and ſeveral other important con<g ref="char:EOLhyphen"/>ſiderations, our Fraternity at the laſt general meeting, after having conſidered of ſeveral ways to expreſs their gratit<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de, did unanimouſly reſolve to do what none of their Predeceſſours ever dreamt of, and in caſe your illuſtrious aſſembly ſhall think fit to approve of the pro<g ref="char:EOLhyphen"/>poſal, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffer to raiſe his Majeſty ſix hundred thouſand pound, and that too out of the Territories of Poetry. And tho' as all our an<g ref="char:EOLhyphen"/>cient Papers inform us, <hi>Parnaſſus</hi> is <hi>Apollo</hi>'s <hi>peculiar,</hi> and never paid a farthing to any Government before, yet to teſtifie our Loyalty and Acknowledgement for the mighty things that have been done for the Nation of late, we ſhall chearfully contribute all that in us lyes, to the eaſe, benefit and advantage of the publick.</p>
+               <p>We need not remind you that Poets in all Ages and Countries of the World have been the ſole diſpenſers of Fame and Glory. Now this being an Heroick Age, wherein every perſon is ambitious of Glo<g ref="char:EOLhyphen"/>ry more or leſs, and yet wou'd rather purchaſe it with his Money at home, notwithſtanding the preſent ſcarcity thereof, than acquire it by his Merits abroad, we humbly crave leave that under your au<g ref="char:EOLhyphen"/>thority and protection we may be impowr'd to Erect a <hi>Glory Office</hi> in all the principal Corporations and Towns in the Kingdom.</p>
+               <p>We have ſo contrived matters that this Office ſhall hook in all ſorts of Cuſtomers, Lords and Peaſants, Court Ladies and Milk<g ref="char:EOLhyphen"/>maids, Clergy and Laity, in ſhort, the whole populace, by what Names or Titles ſoever dignified and diſtinguiſhed.</p>
+               <p>As there are Maſons in the City ſo dexterous at their Trade, that they can build a Houſe to laſt preciſely the time you covenant for, nay can ſo contrive matters, that the Roof ſhall tumble the very mi<g ref="char:EOLhyphen"/>nute after the Leaſe is expired: ſo in our myſtery we have Brethren that can write for a Day, for a Week, for a Month, for a Year, and ſo till Doomſday if the Chapman will go up to the price of it.</p>
+               <p>In <hi>Grub ſtreet</hi> they ſeldom write for above a Week. Some of the
+<pb n="3" facs="tcp:43386:10"/> better ſort in <hi>Pauls Cha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch yard</hi> and about the <hi>Temple,</hi> with good look<g ref="char:EOLhyphen"/>ing after may laſt half a dozen years and upwards. The Wits of <hi>Co<g ref="char:EOLhyphen"/>vent-garden</hi> hold a ſhorter or longer ſpace, according as they mix their colours, and ſome few among them pretend to confer immortality, and to endure for ever.</p>
+               <p>Now in proportion to theſe different Talents of Writing the ſeve<g ref="char:EOLhyphen"/>ral prices are to be regulated. Inferiour perſons may have their Twelve pennyworth of Glory, (and under that rate we are agreed to fell none) and becauſe Glory of that cheap compoſition cannot be ſuppoſed to keep long, we adviſe them to renew it twice a year. This branch of the Revenue is to be managed by the good people of <hi>Grubſtreet,</hi> and the Commodity thus retailed is chiefly calculated for the Meridian of Dutch Troopers, Prentices, Milk-maids, Porters, Footmen, Farmers Eldeſt Sons, and Semſtreſſes.</p>
+               <p>The middle ſort of Glory from half a Crown up to twenty Shilling<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is to be diſtributed by the City Poet for the time being, and his aſſi<g ref="char:EOLhyphen"/>ſtants. And this may indifferently ſerve Vintners that can palm a new Wine upon the World, Phyſitians that have broached a new Re<g ref="char:EOLhyphen"/>ligion, poor Townſmens Daughtets that have ſnapt an Univerſity Fortune, Country Attorneys that can ſet a whole Corporation toge<g ref="char:EOLhyphen"/>ther by the Ears, prolifick Divines that to their great renown have puiſſantly begotten twenty Children, projectors of Pacing Saddles, and all ſuch uſeful inventions to the publick, Schoolmaſters that have floged their thouſand younger Brothers that have ſtole great fortunes, puny Tradeſmen that from Pins and Pack-thread have ſcuffled their way into a Common Council-ſhip. And not to mention any more parti<g ref="char:EOLhyphen"/>culars, all people of middle condition who have done any thing famous and remarkable in their generation.</p>
+               <p>The higheſt pitch of Glory, going under the name of <hi>Elixir Immor<g ref="char:EOLhyphen"/>talitatis</hi> will be onely ſold at <hi>Wills</hi> Coffee-houſe in <hi>Covent-garden,</hi> and will make the purchaſers free of Epiſtles Dedicatory, Panegyricks, with the great priviledge and emoluments thereunto belonging. The price of it is juſt twenty Guineas, (wonderful cheap all things conſidered) and we doubt not will draw in infinite numbers to bid for it, ſuch as Favourites and Courtiers, who wou'd rather buy glory at any rate, than put themſelves to the expence of obtaining it by their own deſerts. Penurious Aldermen who having no inclination to purchaſe reputation by building of Alms-houſes, may here get it at a cheaper rate. Lords Pages that have advanced themſelves to a Sea Commiſſion, but have a mortal averſion to Wooden Legs. The fine dreſſing talkative Sparks of the Town that take Garriſons, and model Kingdoms over their Claret. In fine all thoſe perſons who have a paſſion for Fame and Glory, but cannot be perſuaded to ſacri<g ref="char:EOLhyphen"/>fice
+<pb n="4" facs="tcp:43386:11"/> their eaſe, and pleaſures, or venture a broken Shin for its ſake. The only fear is, that to ſave charges ſome thrifty people will turn Poets in their own defence; but this inconvenience may eaſily be ob<g ref="char:EOLhyphen"/>viated by conſtituting a Supream Office here in Town, which ſhall have full Authority to place and diſplace as they ſhall ſee fit, and likewiſe to regulate the numbers of the City and Country Poets, as they have prudently done the numbers of Chairmen at <hi>Whi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<g ref="char:punc">▪</g> hall.</hi>
+               </p>
+               <p>We humbly conceive that the revenue belonging to this Office will in a years time with prudent management raiſe if not the whole, yet at leaſt four parts of the ſum propoſed. However if it ſhould happen to fall ſhort of what we expect (for ſince the Gentry in two Welch Countries have lately renounced their Gentility to ſave twenty ſhillings a quarter, we may probably imagine that ſome per<g ref="char:EOLhyphen"/>ſons for all their pretended Courtſhip of <hi>Glory</hi> will rather let it alone than turn purchaſers) it cannot fail of being made up by the follow<g ref="char:EOLhyphen"/>ing expedients. We therefore deſire that an <hi>Epithalamium Office</hi> may be erected ſomewhere near the Commons, were all people that pay Scot and Lot to the Pariſh may be obliged to come for their Wed<g ref="char:EOLhyphen"/>ding Ballad, (without which no Parſon ſhall offer to Marry them under penalty of incuring a Poetical Cenſure) and that they ſhall pay either according to their quality, or the goodneſs of the verſe. In the ſecond place we propoſe an <hi>Elegy-Office,</hi> where not only Epitaphs of all ſorts may be had (without which it ſhall not be lawful to bury the party deceaſed) but alſo Funeral ditties upon Ladies Lap-dogs, Parrots, Monkeys, Lord Mayor's and Alderman's Horſes defunct: adjoining to which may be a <hi>Nativity-Office,</hi> where the Children of all ſuch Parents that are qualified as above mentioned, may have their Nativities Regiſtred in Ryme, and their Fortunes told into the bargain, which laſt favour will ſave their Friends the expence of go<g ref="char:EOLhyphen"/>ing into <hi>Morefield,</hi> or to Dr. <hi>Saffold</hi>'s worthy Succeſſour. For be it known to all the World, the Aſtrologers interlope upon the Poets, when they pretend to Prrophecy.</p>
+               <p>Theſe Offices you may order to continue ſo long as the War laſts, whereby their Majeſties ſhall receive ſix hundred thouſand pound yearly. We need not ſay any thing of the Circulation of Wit, the em<g ref="char:EOLhyphen"/>ploying of many indigent perſons, and laſtly the great encouragement of the Paper Manufacture, all which will by this means be promoted and advanced. VVe only preſume to lay our propoſal at your Feet, and ſubſcribe our ſelves Your moſt obedient Servants the <hi>Poets.</hi>
+               </p>
+               <p>We have ordered the City Poet, who drew up this Propoſal, to communicate this deſign to our dear Brethren the Poets of <hi>Holland,</hi> and to the reſt of the Confederates whom it may concern.</p>
+            </div>
+            <div type="colophon">
+               <p>
+                  <hi>London,</hi> Printed <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or the Aſſigns of Mr. <hi>Jordan</hi> and <hi>Tubman</hi> deceaſed.</p>
+            </div>
+         </div>
+         <div type="text">
+            <pb n="1" facs="tcp:43386:11"/>
+            <head>The Petition of the WIDOWS, in and about <hi>London</hi> and <hi>Weſtminſter</hi> for a Redreſs of their Grievances.</head>
+            <byline>By the ſame Sollicitor that drew up the Petition for the Ladies.</byline>
+            <div type="mock_petition">
+               <p>LAſt Week a Petition ſubſcribed by the unmarried Ladies came before you, and what reception it found your ſelves know beſt. 'Tis true we wondered to find an Army of Maids, from whom the World uſually expects modeſty and ſilence, ſo emboldened on the ſudden as to petition for Husbands, and that in the face of the World. Widows in<g ref="char:EOLhyphen"/>deed who lye under no ſuch Reſtrictions, are allowed in all Countries to ſpeak for them<g ref="char:EOLhyphen"/>ſelves; and 'tis but reaſonable we ſhould, for few beſides will ſubmit to the Trouble. 'Tis our Privilege to be obſtreperous when we are not heard; and there is one of our Predeceſſors upon Record in the New Teſtament, who by Virtue of her everlaſting Clack, forced an old muſty Gentleman of the long Robe at laſt to grant her Requeſt.</p>
+               <p>Now Heaven be praiſed, we are not unacquainted with Mankind, which the Maids, we ſup<g ref="char:EOLhyphen"/>poſe, won't pretend to; and therefore may appeal to them without infringing the Rules of Decency: We have ſeen them in their beſt and weakeſt Intervals We know what Weapons they carry <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bout them, and how often they can diſcharge in an Engagement. We have in our times had very ſevere Condicts with them, and ſometimes they were uppermoſt, and then they fell on like Thunder and Lightning; but for all that your Petitioners obliged them ſoon to quit the Field, and leave part of their Ammunition behind them. Give us leave, good Gentlemen, to talk of theſe our Combats; for we always fought upon the ſquare, and therefore have no reaſon to be aſhamed of a recital. As we hinted to you before, we have been concerned in ſeveral fierce Engagements, and the Men play'd their Sharps a<g ref="char:EOLhyphen"/>gainſt us when we cou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d only produce Flats on our ſide; and, beſides, they drew their heavy Canon upon us, while we were forced to lye by and receive their ſhot. After all, though we were ſo diſadvantageouſly ſet upon, and the Blood ſhed that happened in theſe Occaſions was always on our part; yet when the Fortune of the Battle began to change, and declare herſelf in favour of us, we never treated them otherwiſe than Chriſtians; we never nailed up their Canon when we had it in our poſſeſſion, ſo to render it unſerviceable for the future, but gave them time to recover breath again, and furniſh themſelves with a new Train of Artillery: Is not this a generous and honourable way of treating an Enemy? In ſhort (the Devil take that
+<pb n="2" facs="tcp:43386:12"/> Word <hi>ſhort,</hi> for your Petitioners mortally hate it) But in fine, we have been intimate with the Men, and the Men have been no leſs intimate with us; but what is the chief Errand that ſent us here, we have every Woman of us buried her reſpective Man.</p>
+               <p>Not that we value our ſelves upon that ſcore, for God forbid we ſhould; but Widows will ſpeak the Truth let the conſequence be what it will, and ſhould you make ten thouſand Acts to oblige us to hold our Tongues, it would ſignifie juſt nothing, we ſhould break them all in a moment, and that with as much Alacrity as the Vintners in Town daily break the Adultery-Act. Well then we have all of us buried her reſpective Man, which we mention not, Heaven knows our Hearts, out of Oſtentation, but with due Grief and Sorrow. We know a Man's value too well not to regret the loſs of ſo ſerviceable a Creature. We had all of us good able Husbands, at leaſt we'll ſay ſo now they are gone; and though perhaps we had ſome reaſon to complain of them when they were alive, yet we forgive them all their Faults and Infirmities, for that ſingle good natured Act of dying, and leaving us once more to our ſelves.</p>
+               <p>The fooliſh People of <hi>Athens</hi> after they had loſt a good King, would have no more of the kind, forſooth, leſt a bad one ſhould ſucceed him. But your Petitioners are not ſuch a ſcrupulous ſort of People: We that have had good Husbands, are encouraged to try once more, out of hopes of meeting the ſame Succeſs; and we that have had bad ones, are not for all that deterr'd from Matrimony, but hope to mend our hands in a ſecond Bargain. After all, ſhould we be deceived in our Expectations, the firſt may afford to undergo a little Penance ſince they were ſo happy before; and the latter being accuſtomed of old to bear Burdens, are therefore the better enabled to ſupport themſelves under them.</p>
+               <p>The Body of your Petitioners (for after ſo much Preface it is high time to come to buſi<g ref="char:EOLhyphen"/>neſs) conſiſts of four ſeveral Claſſes; <hi>viz.</hi> the old Widows, the young or middle aged Wi<g ref="char:EOLhyphen"/>dows, the rich Widows, and the poor Widows, and each of them preſents you with a different Petition.</p>
+               <p>To begin then with the old Widows, (and that preheminence is due to them upon the ſcore of their Age and Experience) they humbly ſupplicate that you would he pleaſed to take their miſerable Condition into Conſideration. Old People according to the Proverb are twice Children; What wonder is it then if they ſtill have a hankering after Childiſh Play<g ref="char:EOLhyphen"/>things, and long to have their Gums rubb'd with Coral? Pray don't miſtake them, good Gentlemen, they mean it in a lawful, Matrimonial Senſe, and hope you will not cenſure or think the worſe of them for uſing this Freedom. They appeal to all the World who it is that moſt ſtand in want of warm, comfortable things, the young or the old: That 'tis the greateſt Charity to relieve the laſt, needs no formal proof, all the Hoſpitals in the Kingdom ſpeak as much; but alas in this uncharitable Age they don't expect to meet with many Friends. Upon this Conſideration they intirely ſubmit themſelves to the Mercy of the Houſe, not preſuming to carry their Petition ſo high as to requeſt you to force people to marry them; but only that you would recommend their Caſe to the benevolence of thoſe Perſons, who having lived wickedly and at large all their Life-time, are willing to compound for their Sins, and do Acts of ſupererrogation in the laſt Scene of it. Nor are they difficult in their choice, they will ſit down content with any thin; and Cripples with Wooden Legs will be chearfully <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ertained if they have received no damage in the diſtinguiſhing part.</p>
+               <p>Next to theſe come the rich Widows, and they earneſtly beg of your Honourable Houſe that you would make it Felony without Benefit of the Clergy, for any one to make Court to them before the mournful Twelfth-month is expired. They are ſo perpetually peſtered with Suitors of all Complexions, that they can neither eat, nor ſleep, nor pray for them. A new
+<pb n="3" facs="tcp:43386:12"/> Favourite has not more humble Servants in a morning at his <hi>Levee</hi> nor the Commiſſioners of the Pay-Office a greater crowd of ſurly, grumbling Seamen than they have. Nay, ſome of their paſſionate Admirers have had the Impudence to accoſt them upon this Chapter as they have been following their Husband's Corps to the Grave, in the very heighth of their Sorrow, and in the mid'ſt of the Funeral Pomp, If you think it too ſevere to make it Felony in Perſons ſo offending they deſire you to commute the Puniſhment, and oblige every Perſon treſpaſſing after that m<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nner to marry ſome poor Widow as fancy inclines him; Which is all the Favour that the poor Widows beg at your hands.</p>
+               <p>And now comes up the main Body of the young and middle-aged Widows, who as they are by far the moſt numerous, eſpecially ſince the Wars have made ſuch havock among the Husbands; ſo they crave leave to lay their Petitions at your feet. But before they do that, they think it convenient to remove all thoſe popular Slanders and Objections, which ill natured People have been long accuſtomed to level againſt Widows in genera; and becauſe their Ad<g ref="char:EOLhyphen"/>verſaries ſhall have no reaſon to complain that their Arguments are mangled, they will urge them as home as either themſelves or their beſt Advocates could do it for them.</p>
+               <p>'Tis in the firſt place pretended that Widows want ſeveral of thoſe Recommendations that ſet off the Sex, and particularly a Maiden head, without which no Wife they ſay can be ac<g ref="char:EOLhyphen"/>ceptable; that they are ſtill trumping up Stories of their former Husbands, purpoſely to con<g ref="char:EOLhyphen"/>front their new ones, and ſo exceſſively talkative that nothing but Deafneſs is an Antidote againſt the Noiſe; that marrying a Widow is like ſplitting upon a Rock where others have been ſhip-wracked before. After this they run the Metaphor into <hi>Long-Lane,</hi> Second-hand Gloves Cloaths of another's wearing, and the Lord knows what impertinent Stuff: But we ſhall anſwer them all in order.</p>
+               <p>To begin then with the loſs of a Maidenhead, about which they make ſo horrid a Cla<g ref="char:EOLhyphen"/>mour, we could tell them ſad Stories of ſeveral of their Betters that on the Wedding-night have ſatified they have dug up this ſame Chimerical Treaſure, though it was ſtolen many Months before: my, we have a hundred and more of our Company here, that if occaſion were, cou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d atteſt this upon their own perſonal knowledge. So certain it is that the niceſt Criticks among the Men may be as eaſily impoſed upon in this Affair, as your pretenders to Antiquity in counterfeit Medals. But if no Woman can pleaſe them without this imaginary Wealth (and indeed 'tis no more, for moſt People take it upon Truſt) we ſee no reaſon why a young Widow may not be as capable of obliging them as the beſt Virgin in the World. 'Tis but uſing a few Aſtringents before, and, at the critical Minute, crying out, <hi>Fie, Sir, pray, Sir, will you ſplit me up? will you murder me alive? Can you take any pleaſure in what is ſo painful to another?</hi> And the Sparks are ſatisfied they have made a real Sacrifice, though in Truth no more Blood was ſhed in the Encounter, than we ſee upon the Stage when one Actor kills another. If this is their dear Diverſion (and by the bye 'tis a ſure ſign of their ill Nature that they cannot be pleaſed but at the expence of the Party, whom they pre<g ref="char:EOLhyphen"/>tend to love ſo dearly) rather than loſe them, we promiſe them to howl, and ſigh, and roar every Night in the Year, as heartily as an Ox, when he's led to the Slaughter-houſe, and ſo entertain them ſtill with the Ceremony, at leaſt, of their dearly beloved Maiden-Head.</p>
+               <p>In the next place why ſhould we not permitted to refreſh the Memory of a dull lazy husband with the noble performances of his Predeceſſors. The men in <hi>K. Charles</hi> the Second's Raign took the liberty to talk of the Glorious Conqueſts of our former fighting Monarchs, and yet for all that thought themſelves as good Subjects as any in the kingdom. If the reproof is juſt where a God's name lies the harm, and ſurely the Wife muſt be allowed to be the beſt judge of that affair. <hi>Oh no,</hi> ſay they, <hi>'tis not the Horſe but the Man that beſt knows whether he rides eaſie.</hi> Content: <hi>But does not the Horſe likewiſe know whether his Rider carries true</hi>
+                  <pb n="4" facs="tcp:43386:13"/> 
+                  <hi>Horſeman's weight, and whether he ſits even in the Saddle.</hi> If not, why wou'd <hi>Bucepha<g ref="char:EOLhyphen"/>lus</hi> ſuffer himſelf to be backed by none but <hi>Alexander</hi> the Great?</p>
+               <p>But then <hi>we are exceſſive talkative.</hi> So are they, and ſo are moſt of our Sex, but eſpeci<g ref="char:EOLhyphen"/>ally the longing Maids, and under correction, if it is a Sin we are of opinion it ſits better upon us than upon them. This is not all, <hi>Marrying a Widow is like ſpliting upon a Rock where others have been Shipwrack'd.</hi> Well, we are glad however 'tis like ſomething. But ſince one ſimily is boſt drove out by another. Why not, <hi>like drinking in a room where ſome honeſt Gentleman has made merry before.</hi> Since nothing will go down with theſe Squamiſh Creatures in the Matrimonial way but a ſpick and ſpan new Virgin, we wonder why they don't keep up the frolick in every thing elſe; why as often as they drink they don't call ſtill for a Virgin Glaſs; why they don't every Meal call for a Virgin Plate; why they don't ſtill pull out a Virgin Snuff-box, lye in Virgin Sheets, talk Politicks in a Virgin Coffee Houſe, and purſue their dearly beloved variety to the end of the Chapter Laſtly, their indignation riſes at the thoughts of <hi>Long-lane, and all Second-hand things whatever.</hi> If the Sparks are re<g ref="char:EOLhyphen"/>ſolved to be true to their Argument, we are well ſatisfied they muſt e'en ſay good night to all thinking and writing and talking: For at preſent they Tniak at Second h<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d. and Write and Talk at Second hand, and this objection, as terrible as it looks, is a thred bare weather-beaten Second-hand Objection with a witneſs.</p>
+               <p>A late Monarch of happy Memory, who was inferior to none but <hi>Solomon</hi> in Natural Phi<g ref="char:EOLhyphen"/>loſophy, and chiefly in what relates to our Sex, was often heard to ſay, that getting of a Maiden Head was a drudgery fit for none but Porters, We ſave all that I<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>boar and pains, for there needs no great trouble to enter a City when a Breach is once made in the Walls, and our Husbands have that ſatisfaction as to ſee their ground ploughed up ready to their hands. To conclude <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll, a Widow is a tryed Gun, and carries the Tower Mark upon her; now who knows but a Maid may ſplit in the proving.</p>
+               <p>Having thus juſtified the State of Widowhood againſt all the objections that are uſed to be made againſt it we have nothing more to add but that you'd be pleaſed to give your conſent to the three following Articles.</p>
+               <p>
+                  <hi>Firſt,</hi> That all Perſons who are not of known parts and abilities, may not only be rendred uncapable of marrying Maids or ſuch as are reputed Maids but conſined to the choice of Wi<g ref="char:EOLhyphen"/>dows only. This we requeſt not ſo much for our own advantage, as for the eaſe of the Men; for you know ſeveral people can make a ſhift to keep the King's high way, that are not able to leap a Ditch or break open a Quickſet.</p>
+               <p>
+                  <hi>Secondly,</hi> That all Perſons reſolving to marry before the age of twenty one, if they have made no Natural Experiments before that time, ſhall be likewiſe obliged to take a Widow, as they do P<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lots in difficult or unknown places. 'Tis an ancient but well grounded complaint, that where two M<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>den Heads meet they produce nothing but meer Butter Prints, addle-pated Fops, and dull ſenſeleſs ſleepy Boobies. Now if you pals this into an Act, in all probability it will contribute much to the improving of our preſent degenerate Race, and certainly if ever we wanted ſolid heads, 't<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s at this conjuncture.</p>
+               <p>
+                  <hi>Thirdly,</hi> and <hi>I</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, That all Widows during their Widow hood may be excuſed from the Taxes, for is i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t hard, good Gentlemen to pay four Shillings in the Pound for empty Houſes. We hope you will conſider farther of theſe our reaſonable Supplications.</p>
+               <closer>
+                  <hi>And your Petitioners as in Duty,</hi> &amp;c</closer>
+               <trailer>FINIS.</trailer>
+            </div>
+            <div type="colophon">
+               <p>
+                  <hi>London,</hi> Printed for the Uſe of the Wide—o's, 1693.</p>
+            </div>
+         </div>
+         <div type="text">
+            <pb n="1" facs="tcp:43386:13"/>
+            <head>A New Bill drawn up by a <hi>Committee of Grievances,</hi> in Reply to the Ladies and Batchelors Petition and Remon<g ref="char:EOLhyphen"/>ſtrance, <hi>&amp;c.</hi>
+            </head>
+            <div type="mock_bill">
+               <p>VIrgins and Batchelors, or rather Ladies and Gentlemen (for that is your ſafer name, and ſo we would adviſe you to title your ſelves) we have received both your Addreſſes, and both your Suits lye before us. We confeſs that, to do you equal right, you both plead ſtrongly, and pray heartily: However, the fervour of the Suppliant does not always argue the honeſty of the Petiti<g ref="char:EOLhyphen"/>on. The moſt unreaſonable moſt unjuſt things in the World may be as vigorouſly pray'd for as the beſt. A man in his angry moments may as zealouſly wiſh to ſee his honeſt Neighbour hang'd, as he ever wiſh'd in a fit of Sickneſs to be ſav'd. The ſame Tradeſmans Wiſe that at Morning Service cou'd think of nothing but <hi>Abrahams</hi> boſom, before night perhaps has alter'd her note, and pray'd with greater vehemence to meet her Gallant.</p>
+               <p>The Merit therefore, and not the Oratory of the Plea is the buſineſs of our Examination. But before we deſcend to particulars, we muſt ſo far joyn with you, to own your Cauſe (that we may uſe your own phraſe) a matter of the great<g ref="char:EOLhyphen"/>eſt conſequence that ever came within our Walls. For <hi>Hymen</hi> and <hi>Love, Generation</hi> and <hi>Progeny,</hi> the fulfilling of the great firſt Commandment, <hi>Increaſe and Multiply,</hi> is indeed an Importance ſo high, that not only the preſent Race of Mankind, the now occupants of the World, but even the yet unborn are concerned in it.</p>
+               <p>Having therefore duly weigh'd the whole Controverſie between the Petitioners and Remouſtrancers, we muſt declare our ready tenderneſs, and without partiality, favourable Inclinations both to the Complaint, and Complainants, the aggrieved Petitioners. For having conſider'd, that long Cuſtoms out of the memory of man, are by the <hi>Britiſh</hi> Conſtitution equivalent to the moſt binding Laws; we find upon ſearch that <hi>England</hi> has been always the <hi>Heaven of Women,</hi> and alſo by another cuſtomary female Claim, that <hi>a Woman never loſes her Honor;</hi> and conſequent<g ref="char:EOLhyphen"/>ly that the practiſed Deference and Complaiſance to the Sex is an unalienable Right: Upon the ſaid premiſes duly conſider'd, as we ſit here not to deſtroy Fun<g ref="char:EOLhyphen"/>damentals, but to ſupport 'em, we muſt allow a great many unqueſtion'd Preroga<g ref="char:EOLhyphen"/>tives as their juſt and natural Right; a fair <hi>Magna Charta</hi> on the ſoft Sexes ſide.</p>
+               <p>Nevertheleſs, not to come to any Concluſive Determination, <hi>Cauſa inandita,</hi> we think it highly conſiſtent with our own Honour and Juſtice to diſcuſs the main points in diſpute between the <hi>Ladies</hi> and <hi>Batchelors,</hi> before we come to any final deciſion on either ſide.</p>
+               <p>Firſt, then we cannot but take notice that the Batchelors very unjuſtly charge the Petitioners with <hi>Difficult Courtſhip;</hi> the pretended Servitude of tedious <hi>Jacob-Prenticeſhips, &amp;c.</hi> being in the whole a moſt notoriouſly falſe and malicious ſug<g ref="char:EOLhyphen"/>geſtion. For how can any man in his right wits believe that ten thouſand <hi>Green<g ref="char:EOLhyphen"/>ſickneſs Maidens,</hi> ſubſcribers to the Petition, can be thoſe hard-hearted ſlow <hi>Rachel</hi>
+                  <pb n="2" facs="tcp:43386:14"/> 
+                  <hi>Miſtreſſes</hi> (as if Life, Health and Love were ſo little dear to them) that they would rather dye Martyrs to Oatmeal, Loam and Chalk, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>han accept ſuch able Doctors and ſuch pleaſant Phyſick for their Recoveries, in that only <hi>Elixir Vitae, Man</hi> and <hi>Matrimony.</hi>
+               </p>
+               <p>Nay, do not the whole Body of Petitioners moſt frankly and generonſly avow' (both for their Majeſties and the Nations Service) their ready Inclinations and De<g ref="char:EOLhyphen"/>ſires of recruiting the yearly <hi>Flandrian</hi> Mortality, by an immediate Conſummation and Propagation. Is not the fair <hi>Feſtival-ſheet</hi> hung out, with all the heartieſt Bridal Compliment, of <hi>Wake Sleepers, riſe and eat?</hi> And can the ungrateful Batche<g ref="char:EOLhyphen"/>lors talk of <hi>Seven years Courtſhip</hi> after ſuch indearing Invitations! But however, if by chance, once in an Age, they meet with a <hi>thick-ſhell'd bitter Almond,</hi> muſt the generality of the Sex, the <hi>tenderer Piſtacheres,</hi> requiring hot half the cracking la<g ref="char:EOLhyphen"/>bour, and with ten times the ſweeter Kernel, be falſely reproacht and reviled?</p>
+               <p>And whereas the Batchelors ridiculouſly object their fear and dread of entring into the Matrimonial ſtate, from the ſuggeſted Erailty and <hi>Brittleneſs</hi> of the <hi>weaker Veſtels:</hi> to obviate the folly of that Fear, and the ſhallowneſs of that argument, we declare, <hi>Nemine contradicente,</hi> the fair Sex, (not to diminiſh their value) to be true precious <hi>Porcelane,</hi> and it lies only in the gentle uſage and tenderneſs of the handling, to preſerve 'em.</p>
+               <p>And we farther declare this Petition of the longing Ladies, notwithſtanding the ſcurrilous Batchelors ridiculing and cenſorious Reflections, to be as honeſt a Sup<g ref="char:EOLhyphen"/>plication, as a <hi>Prayer for daily Bread.</hi> for <hi>every Thing would live.</hi>
+               </p>
+               <p>And whereas one great Bar to Matrimony, are the common pretenſions of Good Husbandry, in chooſing rather to <hi>buy at Hackney,</hi> than keep a <hi>Milcher of their own;</hi> us thereby endeavouring to avoid the Expenſive Concomitants of Wedlock. Now as theſe unthinking Remonſtrancers never conſider the dangerous Riſques of their own <hi>Latitudinarian</hi> principles and practices, in incurring the hazard of coming to <hi>Saſſaparilla</hi> and <hi>Guiacu<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>,</hi> and the reſt of the <hi>dry Drugs,</hi> infinitely more expenſive than the objected Matrimonial Sweet-meats and Caudles, Goſſipings and Chriſt<g ref="char:EOLhyphen"/>ning<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <hi>&amp;c.</hi> the Confectioners a much eaſier than the Apothecaries Bill, and one Dr. <hi>Wall</hi> a heavier incident charge than two <hi>Cham<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erlains.</hi>
+               </p>
+               <p>We therefore think fit to lay before their Eyes the too common and too threat<g ref="char:EOLhyphen"/>ning malevolence of th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe malignant Aſcendants, <hi>viz. Venus</hi> in the lower Houſe, and <hi>Mercury</hi> in the upper one; and withal adviſe 'em to reflect that the Nurſery of a whole <hi>Fire-ſide</hi> is not half the expence of rearing of <hi>gall<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ping Runners</hi> into <hi>ſtanding Gouts.</hi> We could likewiſe further convince 'em, that the u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iverſal havock of all the <hi>Ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ms</hi> and <hi>Cripples,</hi> from <hi>French Chain-ſhot</hi> and Splinters got betwixt Wind and Water, is much the vaſter Hoſpital Rent-charge, than the Penſions of <hi>Chelſey</hi> and <hi>Chattham.</hi>
+               </p>
+               <p>However, if no Counſel nor Precept can reduce 'em from their infamous Repro<g ref="char:EOLhyphen"/>bation to the honourable ſtate, we hereby enact this puniſhment of their Apoſtacy, That they live in their ſins, and dye in their ſhame; and as the laſt publick brand, be utterly debarr'd even that common Civility of bribing the Searchers, and ſoften<g ref="char:EOLhyphen"/>ing the Bill of Mortality, by ſlurring a ſhame-fac'd <hi>Conſumption</hi> upon a ſcanda<g ref="char:EOLhyphen"/>lous <hi>Rot.</hi>
+               </p>
+               <p>But to begin our Examination into the Petitioners greateſt and loudeſt congu'd Grievance, the <hi>Multitude of Miſſes;</hi> and all the fatal Influences from thoſe reigning Aſcendants; that not only (as the Petitioners modeſtly complain) <hi>divert,</hi> but (as we may ſafely add) poyſon thoſe wholeſome ſtreams which would otherwiſe run in the regular Channel of Matrimony; we ſhall here ſubjoyn our Power and
+<pb n="3" facs="tcp:43386:14"/> Authority for accompliſhing a thorough Reformation in this particular; with the following Inflictions and Puniſhments for the diſcouragement and ſuppreſſion of the ſaid notorious Vice and Enormity.</p>
+               <p>Whereas therefore, to the ſcandal of the Age, it has been too often experi<g ref="char:EOLhyphen"/>enced, that witty and beautiful Spouſe has been abandon'd for hard-favour'd dowdy Miſs; under no other ſhadow of excuſe, than the pretended diſcovery of having found a <hi>Fiddle</hi> abroad, and therefore ſlighting the unmuſical Inſtrument at home; Now in utter deteſtation of ſuch abominable pretences, and ſuch unnatural Con<g ref="char:EOLhyphen"/>jugal-Abdication, together with the manifeſt Juſtice of <hi>Lex Talionis,</hi> we do here<g ref="char:EOLhyphen"/>by <hi>Licenſe</hi> and <hi>Authorize</hi> the aforeſaid fair Abandon'd (as well for the Alleviation of doleful Widow'd nights, and Virgin ſheets; as for the ſupport of the Family, poſſibly in no ſmall danger from ſuch neglect and Defertion) to borrow the Aſſiſt<g ref="char:EOLhyphen"/>ance of ſome dignified Younger Brother, to raiſe Hei<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <hi>&amp;c.</hi> without inc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing the <hi>Praemunire</hi> of <hi>Elopement;</hi> or upon Non-Readineſs and Failure of ſuch honou<g ref="char:EOLhyphen"/>rable ſupply, to have free leave to take up with ſome courſer Domeſtick Men<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al, though but to the homely Tune of <hi>Drive on Coacbman.</hi>
+               </p>
+               <p>And in like manner 'tis Reſolved and Order'd, That all thoſe <hi>Ramblers</hi> and <hi>Strays</hi> under that miſleading <hi>Ignis Fatuus,</hi> the <hi>ſweet ſin of Variety,</hi> that ſhall therefore graſp at outlying <hi>Pluralities,</hi> though poſſibly, naturally ſo weak-gifted, as to be ſcarce ſufficiently qualified for due Incumbence at home, ſhall for the ſaid wilful offence of Non Reſidence, incur the Penalty of <hi>Sequeſtration,</hi> to be ſupply'd by a <hi>Curate,</hi> from the choice of the <hi>Pariſh.</hi>
+               </p>
+               <p>And whereas the fair Complainants too loudly inveigh againſt their powerful Rival <hi>Wine,</hi> and the preſent too ſpreading Idolatry of the Bottle, and the dange<g ref="char:EOLhyphen"/>rous concomitants thereof; which the Batchelors endeavour to ſoften and ſweeten, by inſinuating the Juice of the Grape no ill-meaning Enemy to the God of Love's Subjects. For adjuſtment of the Diſpute, be it reſolved, That Wine be no far<g ref="char:EOLhyphen"/>ther encouraged than as <hi>Amorum famulus,</hi> a good Servant but a bad Maſter; to be indulg'd and cheriſht as a moderate Grace-cup, to make Love chirp, but not ſleep; and be uſed for Sawce and Reliſh, not ſor Sowſe and Pickle. Be it therefore enact<g ref="char:EOLhyphen"/>ed, That for due puniſhment of thoſe violent Claret-hunters, that by abuſe of this lawful and limited Indulgence, do outrun all bounds, to the making a toyl of a pleaſure, and a tedious tireſome Fox-chaſe of it; it may and ſhall be lawful for the ſweet neglected <hi>Venus,</hi> like the old modeſt <hi>Diana,</hi> to puniſh all ſuch capital offen<g ref="char:EOLhyphen"/>ders with the Front of an <hi>Acteon;</hi> it being the opinion of this Committee, that the wilful neglect of Family Duty, and all <hi>falſe meaſures</hi> of due <hi>Benevolence</hi> fall as juſtly under <hi>Parliamentary</hi> Cenſure and Laſh, as the <hi>falſe packing of Butter.</hi>
+               </p>
+               <p>And whereas the crying ſhame of the daily ſcandalous Rhimes, the licentious ſcurrilous Pamphlet Doggrel and Playhouſe Farce upon the holy ſtate of Matri<g ref="char:EOLhyphen"/>mony, is no ſmall Grievance of the Petitioners. This Honourable Committee, as fully empower'd to ſearch Papers and Records, have found the ſaid Libels to be wholly matter of Malice and Calumny, the generality of the Authors being ei<g ref="char:EOLhyphen"/>ther ſome ſcribling, aſpiring, ſlighted pretender to ſome fair diſdainful <hi>Celiae;</hi> and therefore in pure ſpight and revenge, pelted and perſecuted with Satyr and Lam<g ref="char:EOLhyphen"/>poon, for no other ſin but her being deaf and invincible to Dity and Sonnet; and thereupon the whole Honourable ſtate of Wedlock, maliciouſly vilified, with the outcry of <hi>dry meat,</hi> for no other reaſon but that themſelves are thrown out of the Chaſe, and excluded the Game: Or otherwiſe if ſuch Wedlock-railing be the Venome and Gall of any marry'd Author, we conclude it the product of ſome very hard Bargain, as poſſibly ſome old-rapp'd leaky Broach at home, and there<g ref="char:EOLhyphen"/>upon
+<pb n="4" facs="tcp:43386:15"/> his Pallat wholly depraved and ſowr'd with this nauſeous Draught of Lees. Nevertheleſs all the ſaid villanous Ribaldry and Libels, as hatched and contrived for ſowing Sedition and ſomenting Schiſm within the peaceable and united Eccleſiaſti<g ref="char:EOLhyphen"/>cal Provinces of <hi>Hymen</hi> and <hi>Love,</hi> we do hereby adjudge and ſentence to the old doom of <hi>Heretico Comburendo.</hi>
+               </p>
+               <p>And whereas our fair Petitioners enforce their Suit, from our condeſcenſion to the humble Debates of cutting the Rivers <hi>Lug</hi> and <hi>Wye, &amp;c.</hi> Be it therefore Re<g ref="char:EOLhyphen"/>ſolved and Ordered accordingly, That the preſent <hi>Virgin Shallows,</hi> hi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>to of no farther uſe than the driving a poor Watermill, <hi>&amp;c.</hi> be dug into Deeps and Channels, and made Navigable for Traders and Voyagers, and ſo render'd uſeful to the publick for the ſerviceable bearing of Bulk and Burthen.</p>
+               <p>Provided ſtill, that all the fair Bridal pretenders ſhall bring their whole Loaf to the Spouſal Board, and not have any of the Kiſſing Cruſt pared off by any hun<g ref="char:EOLhyphen"/>g<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y Sharper for Breakfaſt, before the good man in Black has ſaid Grace for the Nuptial-night Supper, with the reſt of the uſual Ceremonies or <hi>Fall to in Gods Name.</hi>
+               </p>
+               <p>But if by any frail miſchance, an unhappy falling Fair, under pretence of a pure untoucht Domeſtick Utenſil, ſhall bring a c<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>az<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Pipkin into play; ſhe ſhall be obliged by a true and thorough Reformation, and Engagement of her future more ſteady Uprightneſs, to give good Security that a crack<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Maidenhead, like a bro<g ref="char:EOLhyphen"/>ken Bone, ſhall be ſtrongeſt where 'tis ſet again, or otherwiſe to forſeit all Right and Benefit of our favour and protection.</p>
+               <p>Laſtly, be it order'd, in favour to the Petitioners propoſed Supply towards re<g ref="char:EOLhyphen"/>cruiting the humane dearth and ſcarcity made by the hungry Devourer <hi>War,</hi> That a Clauſe be inſerted to root out of all the Female Phyſick-gardens, and indeed from out the whole Commonwealth, thoſe dangerous Plants call'd <hi>Cover-ſhame,</hi> alias <hi>Savine,</hi> and other <hi>anti-conceptive</hi> Weeds and Poyſons, thoſe notorious Reſto<g ref="char:EOLhyphen"/>ratives of ſlender Shapes, and tender Reputation, to the loud and crying ſhame of <hi>Love loſt, and a Good Thing thrown away.</hi>
+               </p>
+               <p>As for what relates to the Chaplains, we are willing to allow 'em plenty of Meat, Drink and Tobacco, the moſt zealous part of their Supplication; nay, to ſit down at Table with their Patrons, provided they don't take upon them to cen<g ref="char:EOLhyphen"/>ſure the management of the Family. But whereas they petition to be freed from any obligation to marry the Chamber-maid; we can by no means aſſent to it; the <hi>Abigail</hi> by immemorial cuſtom being a <hi>Deodand,</hi> and belonging to Holy Church.</p>
+               <p>We thank the Poets for their good will to the Government, as appears by their Propoſal to raiſe a fund of 600000 <hi>l.</hi> for the ſupport of it; but don't think it con<g ref="char:EOLhyphen"/>venient to raiſe any Money either out of them, or the Ribbon weavers. The on<g ref="char:EOLhyphen"/>ly Tax we lay upon them is to Canonize all our Heroes that dye in <hi>Flanders,</hi> and to record their Victories in Verſe. And this will be no burthenſome employment for them.</p>
+               <p>And laſtly, as for the Widdows, provided they'll engage never to talk bawdy, and quote the ſayings, or praiſe the valour of their dead Husbands, we will grant all and every Clauſe in their Petition, <hi>viz.</hi> The old Widdows ſhall have their Gu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s rubb'd with Coral. The rich ſhall be indulg'd a twelvemonths reſt. The poor ſhall have the forfeitures they beg for; and the young receive full ſatisfaction in their three Articles.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="catalogue">
+            <pb facs="tcp:43386:15"/>
+            <head>A Catalogue of PETITIONS, ordered to be drawn up and Preſented to the Honourable Houſe at their next Seſſion.</head>
+            <p>A Petition of the Brewers and Butchers, that the former may be incorporated with the Vintners; and the lat<g ref="char:EOLhyphen"/>ter with the Apothecaries.</p>
+            <p>A Petition of the Banbox-men and Trunk-makers, that the <hi>Athenian Mercury,</hi> and all Weekly Papers of the like nature be continued.</p>
+            <p>A Petition of 20000 Tradeſmen, that if their Wives offer to draw Bills more than once a Night upon them, they may be empowered honourably to reject them.</p>
+            <p>A Petition of the Quack-Doctors, that the Conſtables may not diſturb the induſtrious Night-walkers in the <hi>Strand, Fleet-ſtreet,</hi> and <hi>Cheapſide.</hi>
+            </p>
+            <p>A Petition of Doctor <hi>S-lm-n,</hi> and two more of the Frater<g ref="char:EOLhyphen"/>nity, that they may have the ſole benefit of a new Religion, by them lately Invented, and that no other Perſons preſume to interlope upon them.</p>
+            <p>A Petition of the Quakers, that their bare word may be equivalent to Swearing; and Nonſence to true Reaſoning; and likewiſe that it may be lawful for them to Fornicate out of their own Tribe.</p>
+            <p>A Petition of all the married Women in the Kingdom of <hi>England,</hi> Dominion of <hi>Wales,</hi> and Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> that the Dog-days be immediately repealed.</p>
+            <pb facs="tcp:43386:16"/>
+            <p>A Petition of the moderate Divines, that the <hi>30th.</hi> of <hi>Jan.</hi> and <hi>29th.</hi> of <hi>May</hi> be diſcarded out of the Almanack, as being great Eye ſores to the Godly Party.</p>
+            <p>A Petition of the Maids, that the Moſaical Signs of Virgi<g ref="char:EOLhyphen"/>nity, be declared void and unneceſſary, and unfit to be requi<g ref="char:EOLhyphen"/>red under the Chriſtian Diſpenſation.</p>
+            <p>A Petition of the Ribbon-Weavers, that Shoulder Knots and Pantaloons of happy Memory be revived.</p>
+            <p>A Petition of the Bookſellers to declare, that Licenſing of Books is Popiſh and Superſtitious, and deſtructive of the li<g ref="char:EOLhyphen"/>berty of the Subject.</p>
+            <p>A Petition of the Inhabitants of <hi>White Fryars,</hi> that their Bounds be enlarged, that they may have room enough to re<g ref="char:EOLhyphen"/>ceive the broken Merchants and Tradeſmen that daily flock in to them.</p>
+            <p>A Petition of the Poets for a ſpeedy Reſtauration of Claret, and the utter Baniſhment of little diminutive <hi>Pagan</hi> Bottles.</p>
+            <p>A Petition of the Midwives and Highway-men that <hi>Savin</hi> and <hi>Hemp</hi> be rooted out of the Common-wealth.</p>
+            <p>A Petition of the Glaſiers and Tallow-Chandlers, that it may be lawful to break Windows on Thanksgiving-days, where no Lights are ſet out.</p>
+            <p>A Petition of Dr. <hi>Otes,</hi> that every Evidence for the future ſhall be obliged to repair to him for a Licence.</p>
+            <p>A Petition of the Priſoners in <hi>Newgate,</hi> that their Confeſſi<g ref="char:EOLhyphen"/>ons and dying Speeches may not be Printed before they are Hanged.</p>
+            <p>A Petition of Dr. <hi>Partridge</hi> that no Almanack-maker pre<g ref="char:EOLhyphen"/>tend to Propheſie for the Government but himſelf.</p>
+            <p>A Petition of the Fidlers, that kicking down Stairs, and broken Heads be reckoned no Scandal.</p>
+            <p>A Petition of the Players, that they may be allowed plura<g ref="char:EOLhyphen"/>lity of Wives, in order to be ſure of a Maidenhead once in their Lives.</p>
+            <p>A ſecond Petition of the Bookſellers, that when a dull heavy Book lies upon their hands, it may be publickly burnt to pro<g ref="char:EOLhyphen"/>mote the Sale of it.</p>
+            <p>A Petition of Bully <hi>D—ſon,</hi> and the reſt of his Brethren, that Swearing and Roaring be adjudged as effectual a ſign of Valour, as Fighting.</p>
+            <pb facs="tcp:43386:16"/>
+            <p>A Petition of ſeveral young Gentlemen of the Inns of Court, that a Statue be erected to Dr. <hi>Wall,</hi> at the publick Charge.</p>
+            <p>A Petition of the Northern Attornies, for a ſpeedy conclu<g ref="char:EOLhyphen"/>ſion of the War, becauſe at preſent the People can't ſpare Mo<g ref="char:EOLhyphen"/>ney to go to Law.</p>
+            <p>A Petition of the Harlots, that Pluralities be denied to all married Women, of what Degree or Quality ſoever.</p>
+            <p>A Petition of the Coffee Houſes, that they may be priviledged in Fornication up Stairs, and for Treaſon and falſe news below.</p>
+            <p>A Petition of the Country Parſons, that, in favour of them, the Houſe will be pleaſed to take off the additional Duty upon Tobacco.</p>
+            <p>A Petition of the City Clergymen's Daughters, that <hi>Increaſe and Multiply</hi> be made the Eleventh Commandment.</p>
+            <p>A Petition of the Knights of the Poſt, that all the Pillories in the Kingdom be burnt on the next <hi>Thanksgiving-day.</hi>
+            </p>
+            <p>A Petition of the Tradeſmen in and about <hi>London,</hi> to prohi<g ref="char:EOLhyphen"/>bit the exportation of Leather, looſt if the War ſhould com<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e a Year or two <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, we ſhould be forced, like our An<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſtor<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, to <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in our own Defence.</p>
+            <p>A Petition of the Drawers about the <hi>Temple</hi> and <hi>Covent-Gar<g ref="char:EOLhyphen"/>den,</hi> that they may be allowed to lie a Bed till Eleven.</p>
+            <p>A Petition of the Royal Society, that the Comb-makers, Mouſe-Trap Men, and <hi>Athenians,</hi> be ſuppreſſed, as Interlopers upon them.</p>
+            <p>A Petition of the Chimney-Sweepers, that they may have the ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>owring of all <hi>Eccleſiaſtical</hi> Conſciences every Spring and Fall.</p>
+            <p>A Petition of the City that none be ſuffer'd to talk Treaſon, but ſuch as are well-affected to the Common-wealth.</p>
+            <p>A Petition of the College of Phyſicians, that the Importati<g ref="char:EOLhyphen"/>on of <hi>Dutch</hi> Doctors be prohibited, as prejudicial to the Manu<g ref="char:EOLhyphen"/>facture of our own Univerſities.</p>
+            <p>A Petition of the Taylors, that leave be given to bring in a long Bill to promote new Faſhions.</p>
+            <p>A Petition of the Seamen, that the Parſons may not meddle with Politicks, but every one keep in his own Element.</p>
+            <p>A Petition of the Barbers that they may be made Free of the Church, ſince the Divines have uſurped upon their Trade by turning Trimmers.</p>
+            <p>A Petition of the Country Inn-keepers, that the Soldiers quar<g ref="char:EOLhyphen"/>tered
+<pb facs="tcp:43386:17"/> in their Houſes wou'd be content to Tap their Hogsheads, but not their Wives or Daughters.</p>
+            <p>A Petition of the Diſſenting Divines, that none ſhall be admitted into the <hi>Claſs,</hi> but Men of ſtrong Lungs, and ſtronger Backs.</p>
+            <p>A Petition of the Anabaptiſts, that they may be empower'd to erect a publick Dipping Pond at <hi>Lambeth Ferry.</hi>
+            </p>
+            <p>A Petition of the Painters, that they may have leave to enter all the Conventicles in Town, and draw their reſpective Pa<g ref="char:EOLhyphen"/>ſtors in their proper Colours.</p>
+            <p>A Petition of the Waſtcoateers of <hi>Wapping,</hi> that it may be lawful for them to go ſixteen Months with Child, in caſes of neceſſity.</p>
+            <p>A Petition of the Printers, that all diſtinctions of Bawdry, Blaſphemy and Treaſon be utterly aboliſhed.</p>
+            <p>A Petition of the Proctors of the Commons to have Forni<g ref="char:EOLhyphen"/>cation encouraged, that they may have the ſole puniſhing of it afterwards.</p>
+            <p>A Petition of the Claret drinkers, that Red Noſes ſhall qua<g ref="char:EOLhyphen"/>lifie People for all ſorts of Preferment.</p>
+            <p>A Petition of ſeveral Mayors and Aldermen that Money be adjudged to comprehend both Wit and Senſe, and good Breeding.</p>
+            <p>A Petition of ſeveral Recorders in the Kingdom, that ma<g ref="char:EOLhyphen"/>king of Speeches be utterly aboliſhed, unleſs <hi>Bulls</hi> be tolerated.</p>
+            <p>A Petition of the Ordinary of <hi>Newgate,</hi> that all ſorts of breaking be declared ſinful, but eſpecially Sabbath-breaking.</p>
+            <p>A Petition of the Orphans, that the Monument be hung with Mourning once a Year, and that at the expence of the Chamber.</p>
+            <p>A Petition of the ſeveral Ladies living near <hi>Weſtminſter,</hi> that all Deſerters be brought to condign puniſhment.</p>
+            <p>A Petition of the <hi>Athenians,</hi> that they may have a Patent for their new Invention of making ſecond hand <hi>Spira</hi>'s.</p>
+            <p>A Petition of the Pariſh Clerks, that a day be ſet a part to Celebrate the Pious Memory of <hi>Hopkins</hi> and <hi>Sternhold,</hi> and that the City Poet draw up the Service for the day.</p>
+            <lg>
+               <l>
+                  <hi>And for your Worſhips then we'll pray,</hi>
+               </l>
+               <l>
+                  <hi>For eke, for ever, and for ay.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43386:17"/>
+         </div>
+      </back>
+   </text>
+</TEI>
